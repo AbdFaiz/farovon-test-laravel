@@ -36,7 +36,7 @@ It features full **CRUD operations**, **JWT Authentication**, **Eloquent Relatio
 
 ```bash
 git clone https://github.com/AbdFaiz/farovon-test-laravel.git
-cd customer-api
+cd farovon-test-laravel
 composer install
 cp .env.example .env
 php artisan key:generate
